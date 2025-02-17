@@ -1,0 +1,34 @@
+.hero-section {
+    background-image: url('./assets/images/pexels-atypicaldesign-2340254.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    text-align: center;
+  }
+
+  .profile-img {
+    border-radius: 5%;
+    border: 2px solid #595651;
+  }
+
+  .text-1 {
+    color: #03588C;
+  }
+
+  .text-2 {
+    font-style: italic;
+  }
+  .container-1{
+    display:flex;
+    gap:50px;
+    align-items:center;
+    justify-content: center;
+    padding: 10px;
+  }
+  .card{
+    text-align: center;
+  }
+  .footer{
+    background-color:#E5CC00;
+  }
